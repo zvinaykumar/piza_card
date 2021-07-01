@@ -1,0 +1,28 @@
+.banner{
+    height: 379px;
+    margin-top: -130px;
+    margin-left: auto;
+    
+}
+.online-order {
+    height: 25em;
+    position: relative;
+    background-color: #1a5ca3;
+    padding: 0em;
+}
+    
+
+.banner-text {
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+.order-heading{
+    color: white;
+}
+button{
+    background-color: green;
+    color: white;
+}
+
+       
